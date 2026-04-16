@@ -1,6 +1,6 @@
 # Public dataset mirror
 
-This repository hosts a public copy of the file `use-cases.csv` so it can be accessed by Microsoft 365 Agent (student account restrictions require a simple URL).
+This repository hosts a public copy of the file `use-cases.csv` so it can be accessed by a simple URL).
 
 ## Original source
 
